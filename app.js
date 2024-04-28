@@ -114,5 +114,4 @@ ComfyJS.onCommand = (user, command, message, flags) => {
 }
 
 
-ComfyJS.Init("dafran");
-// ComfyJS.Init("gthegreta");
+ComfyJS.Init("gthegreta");
